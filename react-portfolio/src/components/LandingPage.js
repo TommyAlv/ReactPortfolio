@@ -1,4 +1,3 @@
-import AutoTyping from "../utils/autotyping"
 
 const LandingPage = () => {
     return (

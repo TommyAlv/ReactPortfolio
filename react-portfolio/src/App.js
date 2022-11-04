@@ -27,12 +27,14 @@ function App() {
   }
 
   return (
-    <div>
+    
+      <div>
+        <Nav setCurrentPage={setCurrentPage} />
+        {displayPage()}
+        <Footer />
+      </div>
+    
 
-    <Nav setCurrentPage={setCurrentPage} />,
-    {displayPage()},
-    <Footer />
-    </div>
   );
 }
 
