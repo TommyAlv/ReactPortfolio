@@ -37,3 +37,14 @@
   }
 }
 
+body {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+footer {
+  background-color: #3D938B;
+  flex: 0 0 50px;
+  margin-top: auto;
+}

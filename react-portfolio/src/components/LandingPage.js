@@ -1,5 +1,6 @@
 import React from 'react';
 import Typed from "react-typed";
+import logo from "../assets/tom-alogo.png"
 
 
 const textLines = [
@@ -19,8 +20,9 @@ const LandingPage = () => {
                 <div className="m-auto">
                     <div className="mx-auto text-center prose">
                         <div className="container mx-auto my-auto">
+                            <img src={logo} alt="avatar photo" className="object-cover mx-auto h-36 w-36 rounded-full"
+                                id="avatarPhoto" />
 
-                            
                             <h1 className="text-4xl font-bold pt-4 px-10 text-primary-content ">Tommy Alvarado</h1>
                             <p className="pt-6 lg:pt-3 md:pt-2 lg:pb-4 sm:pb-9 md:px-4 sm:text-4xl text-3xl font-semibold text-secondary-content "
                                 id="textRow">
