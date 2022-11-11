@@ -4,7 +4,7 @@ import Nav from "./components/Nav";
 import LandingPage from "./components/LandingPage"
 import { AboutMe } from "./components/AboutMe";
 import { Footer } from "./components/Footer";
-import { Work } from "./components/Work"
+import { Works } from "./components/Works"
 import { Contact } from "./components/Contact"
 import { useState } from "react";
 import React from 'react';
@@ -19,7 +19,7 @@ function App() {
       case "AboutMe":
         return <AboutMe />;
       case "Work":
-        return <Work />;
+        return <Works />;
       case "Contact":
         return <Contact />;
       default:

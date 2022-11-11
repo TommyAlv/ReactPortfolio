@@ -12,7 +12,7 @@ const textLines = [
 const LandingPage = () => {
     return (
         // < !--background color for page-- >
-        <div className="h-screen bg-gradient-to-t from-secondary to-primary">
+        <div className="h-screen bg-gradient-to-t from-whitest to-dark-slate-gray">
             {/* <!-- header --> */}
 
             {/* <!-- About Me --> */}
@@ -20,11 +20,11 @@ const LandingPage = () => {
                 <div className="m-auto">
                     <div className="mx-auto text-center prose">
                         <div className="container mx-auto my-auto">
-                            <img src={logo} alt="avatar photo" className="object-cover mx-auto h-36 w-36 rounded-full"
+                            <img src={logo} alt="avatar" className="object-cover mx-auto h-36 w-36 rounded-full"
                                 id="avatarPhoto" />
 
-                            <h1 className="text-4xl font-bold pt-4 px-10 text-primary-content ">Tommy Alvarado</h1>
-                            <p className="pt-6 lg:pt-3 md:pt-2 lg:pb-4 sm:pb-9 md:px-4 sm:text-4xl text-3xl font-semibold text-secondary-content "
+                            <h1 className="text-4xl font-bold pt-4 px-10 my-3 text-space-cadet ">Tommy Alvarado</h1>
+                            <p className="pt-2 lg:pt-1 md:pt-2 lg:pb-2 sm:pb-9 md:px-4 sm:text-4xl text-3xl font-semibold text-deep-jungle-green "
                                 id="textRow">
                                 <Typed strings={textLines} startDelay={300} typeSpeed={60} backSpeed={100} backDelay={100} smartBackspace={true} loop={true} />
                             </p>
