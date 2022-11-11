@@ -1,6 +1,6 @@
 {
-  "homepage": "http://tommyalv.github.io/ReactPortfolio/",
-  "name": "my-project",
+  "homepage": "https://tommyalv.github.io",
+  "name": "react-portfolio",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
