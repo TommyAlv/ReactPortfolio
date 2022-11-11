@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/ReactPortfolio/static/css/main.652e60b4.css",
-    "main.js": "/ReactPortfolio/static/js/main.ffc84d82.js",
-    "static/js/787.633816a4.chunk.js": "/ReactPortfolio/static/js/787.633816a4.chunk.js",
-    "static/media/codeQuiz.png": "/ReactPortfolio/static/media/codeQuiz.f332bd29939723909387.png",
-    "static/media/YCEV.png": "/ReactPortfolio/static/media/YCEV.992e185f016640d58328.png",
-    "static/media/SelfPort2.jpg": "/ReactPortfolio/static/media/SelfPort2.05b63ac7469b8c84749a.jpg",
-    "static/media/weatherApp.png": "/ReactPortfolio/static/media/weatherApp.b7598cff85b98aa12672.png",
-    "static/media/tom-alogo.png": "/ReactPortfolio/static/media/tom-alogo.0035a1c6442e1776375d.png",
-    "static/media/myResume.pdf": "/ReactPortfolio/static/media/myResume.9383f75cb5607c658785.pdf",
-    "static/media/workdayScheduler.png": "/ReactPortfolio/static/media/workdayScheduler.29c11b204aa039f72f33.png",
-    "static/media/passwordGen.png": "/ReactPortfolio/static/media/passwordGen.88e3bf9e003110e474db.png",
-    "static/media/crowdCntrl.png": "/ReactPortfolio/static/media/crowdCntrl.2777a6361b62fe8c0231.png",
-    "index.html": "/ReactPortfolio/index.html",
-    "main.652e60b4.css.map": "/ReactPortfolio/static/css/main.652e60b4.css.map",
-    "main.ffc84d82.js.map": "/ReactPortfolio/static/js/main.ffc84d82.js.map",
-    "787.633816a4.chunk.js.map": "/ReactPortfolio/static/js/787.633816a4.chunk.js.map"
+    "main.css": "/static/css/main.652e60b4.css",
+    "main.js": "/static/js/main.fdb54e84.js",
+    "static/js/787.a2cb61a6.chunk.js": "/static/js/787.a2cb61a6.chunk.js",
+    "static/media/codeQuiz.png": "/static/media/codeQuiz.f332bd29939723909387.png",
+    "static/media/YCEV.png": "/static/media/YCEV.992e185f016640d58328.png",
+    "static/media/SelfPort2.jpg": "/static/media/SelfPort2.05b63ac7469b8c84749a.jpg",
+    "static/media/weatherApp.png": "/static/media/weatherApp.b7598cff85b98aa12672.png",
+    "static/media/tom-alogo.png": "/static/media/tom-alogo.0035a1c6442e1776375d.png",
+    "static/media/myResume.pdf": "/static/media/myResume.9383f75cb5607c658785.pdf",
+    "static/media/workdayScheduler.png": "/static/media/workdayScheduler.29c11b204aa039f72f33.png",
+    "static/media/passwordGen.png": "/static/media/passwordGen.88e3bf9e003110e474db.png",
+    "static/media/crowdCntrl.png": "/static/media/crowdCntrl.2777a6361b62fe8c0231.png",
+    "index.html": "/index.html",
+    "main.652e60b4.css.map": "/static/css/main.652e60b4.css.map",
+    "main.fdb54e84.js.map": "/static/js/main.fdb54e84.js.map",
+    "787.a2cb61a6.chunk.js.map": "/static/js/787.a2cb61a6.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.652e60b4.css",
-    "static/js/main.ffc84d82.js"
+    "static/js/main.fdb54e84.js"
   ]
 }
