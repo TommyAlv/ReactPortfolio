@@ -18,7 +18,7 @@ export const Works = () => {
                         </h1>
                         <h2 className="pt-8 pb-4 text-3xl font-semibold xl:pb-16 text-space-cadet">Below are a few projects that I
                             have created or assisted in creating.</h2>
-                        <p className="text-xl pt-6 pb-10 hidden lg:block text-space-cadet">
+                        <p className="text-xl pt-6 pb-10 mb-8 hidden lg:block text-space-cadet">
                             Hover To Learn More. Clicking Will Take You To The Deployed Site
                         </p>
                         <div className="container mx-auto lg:w-full bg-transparent">
