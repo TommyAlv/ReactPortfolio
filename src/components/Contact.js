@@ -7,7 +7,7 @@ export const Contact = () => {
                 <div className="hero-content text-center flex content-center">
                     <div className="pt-10 pb-4 lg:pt-0 w-full sm:px-4">
                         <h1 className="text-5xl mb-10 font-bold text-timberwolf">Let's Get To Know Each Other</h1>
-
+                        {/* 
                         <form>
                             <div className="bg-transparent shadow-md rounded px-8 pt-6 pb-8 mb-4 flex flex-col">
                                 <div className="-mx-3 md:flex mb-6">
@@ -41,10 +41,12 @@ export const Contact = () => {
                                     </div>
                                 </div>
                             </div>
-                        </form>
+                        </form> */}
 
+                       
                         <div className="md:w-2/3 mb-20 mx-auto">
                             <div className="flex flex-row gap-4 mx-auto justify-center pt-2">
+                                 {/* Github Icon */}
                                 <a href="https://www.github.com/tommyalv" target="_blank" rel="noreferrer">
                                     <svg stroke="dark-slate-gray" fill="dark-slate-gray" strokeWidth="0" viewBox="0 0 496 512" height="64"
                                         width="64" xmlns="http://www.w3.org/2000/svg">
@@ -53,6 +55,15 @@ export const Contact = () => {
                                         </path>
                                     </svg>
                                 </a>
+                                {/* Email Icon */}
+                                <a href="mailto:tommy@tom-a.co?subject=I Saw Your Portfolio!"><svg
+                                    stroke="currentColor" fill="dark-slate-gray" strokeWidth="0" viewBox="0 0 448 512" height="68"
+                                    width="68" xmlns="http://www.w3.org/2000/svg">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+                                        <path d="M48 64C21.5 64 0 85.5 0 112c0 15.1 7.1 29.3 19.2 38.4L236.8 313.6c11.4 8.5 27 8.5 38.4 0L492.8 150.4c12.1-9.1 19.2-23.3 19.2-38.4c0-26.5-21.5-48-48-48H48zM0 176V384c0 35.3 28.7 64 64 64H448c35.3 0 64-28.7 64-64V176L294.4 339.2c-22.8 17.1-54 17.1-76.8 0L0 176z" /></svg>
+                                </svg></a>
+
+                                {/* linkedIn Icon */}
                                 <a href="https://www.linkedin.com/in/tomalv" target="_blank" rel="noreferrer"><svg
                                     stroke="currentColor" fill="dark-slate-gray" strokeWidth="0" viewBox="0 0 448 512" height="64"
                                     width="64" xmlns="http://www.w3.org/2000/svg">
@@ -61,11 +72,11 @@ export const Contact = () => {
                                     </path>
                                 </svg></a>
 
-                                <a href="https://twitter.com/_developingtom" target="_blank" rel="noreferrer">
+                                {/* <a href="https://twitter.com/_developingtom" target="_blank" rel="noreferrer">
                                     <svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 24 24" fill="dark-slate-gray" stroke="dark-slate-gray" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
                                         <path d="M23 3a10.9 10.9 0 0 1-3.14 1.53 4.48 4.48 0 0 0-7.86 3v1A10.66 10.66 0 0 1 3 4s-4 9 5 13a11.64 11.64 0 0 1-7 2c9 5 20 0 20-11.5a4.5 4.5 0 0 0-.08-.83A7.72 7.72 0 0 0 23 3z">
                                         </path></svg>
-                                </a>
+                                </a> */}
 
                             </div>
 
